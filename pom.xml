@@ -4,6 +4,7 @@
   <artifactId>curso_selenium</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
+  <!-- esto es un comentario de prueba para probar git repositorio local a remoto-->
   <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
